@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SmartAPI": {
+        "commandName": "Project",
+        "launchBrowser": true,
+        "environmentVariables": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "applicationUrl": "http://localhost:50192;https://localhost:50191"
+    }
+  }
+}
